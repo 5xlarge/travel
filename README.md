@@ -10,4 +10,4 @@ html ve css kullanıldı
 
 
 <h2> Ekran görüntüsü </h2>
-![]
+![](ekran.gif)
